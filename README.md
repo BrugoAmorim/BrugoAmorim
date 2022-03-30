@@ -1,6 +1,8 @@
 ### Prazer! eu me chamo Bruno, e sou estudante de programação👋
 
-Pretendo trabalhar como Desenvolvedor backend, utilizando tanto o .Net Core quanto o Node.js. Sempre buscando melhorar e nunca parando de práticar 👊
+Pretendo trabalhar como Desenvolvedor backend, utilizando os frameworks .Net Core(este já possuo uma certa familiaridade) e Nodejs Express(ainda estou na fase de aprendizado)
+
+Infelizmente não possuo experiencia profissional no mercado de trabalho, no entanto, estou sempre buscando praticar um pouco de programação todos os dias. Sempre buscando melhorar e nunca parando de práticar 👊
 
 - 🌱 Estudando JavaScript
 
