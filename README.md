@@ -1,13 +1,13 @@
 ### Prazer! eu me chamo Bruno, e sou estudante de programação👋
 
-Pretendo trabalhar como Desenvolvedor backend, utilizando os frameworks .Net Core(este já possuo uma certa familiaridade) e Nodejs Express(ainda estou na fase de aprendizado)
+Nasci em 2004 e atualmente sou apenas estudante. Estudo programação desde o começo de 2020, eu lembro que na época eu ainda não tinha uma ideia do que queria fazer, então minha mãe me recomendou eu fazer um curso técnico voltado para a area de TI, pois eu ficava bastante tempo no computador, acho que minha mãe deve ter pensado que eu curtiria trabalhar com isso. Ela estava certa! eu me apaixonei por essa área, no ínicio foi muito difícil me adaptar, mas depois que eu peguei o jeito, eu comecei a mergulhar neste mundo Tech, a cada coisa nova que aprendia só me dava mais vontade de continuar na área, o fato de ter sempre algo para aprender me deixa motivado a continuar, já que eu sei que, o que estou estudando nunca vai ser a mesma coisa aprendido anteriormente e isso é incrível. 
 
 Infelizmente não possuo experiencia profissional no mercado de trabalho, no entanto, estou sempre buscando praticar um pouco de programação todos os dias. Sempre buscando melhorar e nunca parando de práticar 👊
 
 - 🌱 Estudando JavaScript
 
 <div align="center">
-  <a href="https://github.com/Brugoamorim">
+  <a href="https://github.com/Brugoamorim"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrugoAmorim&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrugoAmorim&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
